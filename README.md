@@ -1,4 +1,4 @@
-<img width="848" alt="Screenshot 2025-07-06 at 7 35 50 PM" src="https://github.com/user-attachments/assets/9acc4da0-5ca6-475b-9521-49c5ebb47b2b" /># 🧵 String Utilities Tool – Part 1
+# 🧵 String Utilities Tool – Part 1
 
 An interactive React utility to explore and understand commonly used JavaScript string methods like `split()`, `trim()`, `includes()`, `replace()`, and more. 
 This tool is perfect for beginners and intermediate developers who want to **visually learn how string operations behave** with live input/output examples.
